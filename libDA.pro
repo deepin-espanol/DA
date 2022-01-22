@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui widgets dbus xml script svg network x11extras core-private
+QT       += core gui widgets dbus xml script svg network x11extras core-private KWindowSystem
 
 greaterThan(QT_MAJOR_VERSION, 4) {
   QT += widgets widgets-private
